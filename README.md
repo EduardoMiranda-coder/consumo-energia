@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como parte do curso de **Desenvolvimento de Sistem
 ## 📋 Como funciona o cálculo?
 O sistema solicita três informações básicas e aplica a seguinte fórmula matemática para encontrar o consumo em Quilowatt-hora (kWh):
 
-- Consumo mensal= potência*horas-dia*30(números de dias em um mês)/1000
+**Consumo mensal** = (potência * horas_dia * 30) / 1000
 
 
 O projeto também calcula o custo estimado baseado em uma tarifa média de R$ 0,65 por kWh.
